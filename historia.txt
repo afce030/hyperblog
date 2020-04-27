@@ -16,7 +16,7 @@ Reparación 1
 
 Reparación 2
 
-Nuevo bug Reparado
+Nuevo bug Reparado de manera eficiente
 
 Nuevo feature actualizado
 
