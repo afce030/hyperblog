@@ -20,6 +20,8 @@ Nuevo bug Reparado de manera eficiente
 
 Nuevo feature actualizado
 
+Solución de conflictos
+
 Nuevo feature 2
 
 Mañana nos enfocaremos en su vida laboral
