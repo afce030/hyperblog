@@ -1,6 +1,6 @@
 # Repositorio para el curso de git
 
-Este repositorio fue creado para seguir el cusro profesional de Git y Github ofrecido en Platzi. En este curso se consideraron aspectos relacionados con el manejo de ramas y el dominio de un flujo profesional de trabajo en Github.
+Este repositorio fue creado para seguir el curso profesional de Git y Github ofrecido en Platzi. En este curso se consideraron aspectos relacionados con el manejo de ramas y el dominio de un flujo profesional de trabajo en Github.
 
 El contenido del curso incluye:
 
